@@ -2,5 +2,9 @@ body {
     font-size: 16px;
     color: lavender;
     font-family: SansSerif
-
+ul {
+    list-style: none;
+    border: 2px;
+    border-style: dashed;
+    color: red
 }
